@@ -5,19 +5,22 @@
  */
 int main(void)
 {
-	int n, i
+	int n;
 
 	printf("Enter a number: ");
-	scanf("%d", &n)
+	scanf("%d", &n);
 
 	if(n > 0)
 	{
-		printf("Numbers up to %d is\n", n)
+		 printf("Numbers up to %d is\n", n);
 
+		int i;
 		for(i = 1; i <= n; i++)
 		{
 			printf("%d" , i);
-			if(i % 10 = 0)
+			printf(" , ");
+
+			if(i % 10 == 0)
 			{
 				printf("\n");
 			}
