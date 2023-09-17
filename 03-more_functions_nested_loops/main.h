@@ -1,1 +1,15 @@
-VimCrypt~03!-´ñ4ÉüQHOÒßÌ>VÕOE ¸làı©ÏXê8âß£„-”ùæH±¦NkÖ~Ê3QyÑ€şÆ½™œÑ[Èif’<0Ö}jA¡xåGÖ_èEøš¿iªC±òf¶©{…–Øg•\´C«Uul!®$Ï‰ÄÉÜ¨Ø;ø°Ï—µ·u—}íƒÙnÍİŸ<«á–Rµé¶t¼³6½Ã ¹æDº'À6QTêú-AÕz#…ÿ/YCOÓS^6İª/*â WIƒúMî~K  ¶¦<O=yª.3ÓGfiÂÈmMè~Ó­Rvñ˜çW4XĞÇ”±¢…}ÀNk–î×å>å[Œÿş ¶ÿdáğÖ'æBi>“{®E’&Ë¡îòŸiO º”•Hİmg€!«Æ‹³=¨™€îõo>r×-ºPß”«‡¯zÚË…(¶—zMØq
+#ifndef MAIN_H
+#define MAIN_H
+int _putchar(char c);
+int _isupper(int c);
+int _isdigit(int c);
+int mul(int a, int b);
+void print_numbers(void);
+void print_most_numbers(void);
+void more_numbers(void);
+void print_line(int n);
+void print_diagonal(int n);
+void print_square(int size);
+void print_triangle(int size);
+void print_number(int n);
+#endif
