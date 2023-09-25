@@ -2,7 +2,6 @@
  * file:6-print_numberz.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
  * main - prints all single digit numbers of base 10 starting from 0 in newline
