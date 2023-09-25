@@ -2,7 +2,6 @@
  * file:9-print_comb.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
  * main - prints all possible combinations of single-digit numbers
