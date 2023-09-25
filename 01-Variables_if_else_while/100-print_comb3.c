@@ -2,7 +2,6 @@
  * file:100-print_comb3.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
   * main - Prints the numbers from 00 to 99, numbers separated by
