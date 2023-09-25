@@ -2,7 +2,6 @@
  * file:4-print_alphabet.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
  * main - print alphabets in lowercase except  e and q.
