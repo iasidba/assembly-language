@@ -2,7 +2,6 @@
  * file:8-print_base16.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
  * main - prints all the numbers of base 16 in lowercase,in a new line
