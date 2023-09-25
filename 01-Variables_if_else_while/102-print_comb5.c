@@ -2,7 +2,6 @@
  * file:101-print_comb4.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
   * main - prints all possible combinations of two two-digit numbers 0 to 99 
