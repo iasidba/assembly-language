@@ -2,7 +2,6 @@
  * file:7-print_tebahpla.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
  * main - print alphabets lowercase in reversed.
