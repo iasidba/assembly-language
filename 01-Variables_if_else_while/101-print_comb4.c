@@ -2,7 +2,6 @@
  * file:101-print_comb4.c
  * Author:Abdi Heydar
  */
-
 #include <stdio.h>
 /**
   * main - prints all possible different combinations of three digits
